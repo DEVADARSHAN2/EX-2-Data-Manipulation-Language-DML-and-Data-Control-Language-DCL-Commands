@@ -1,7 +1,8 @@
 # EX 2 Data Manipulation Language (DML) Commands and built in functions in SQL
+## DATE : 11/08/23
+
 ## AIM:
 To create a manager database and execute DML queries using SQL.
-## DATE : 11/08/23
 
 ## DML(Data Manipulation Language)
 <div align="justify">
